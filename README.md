@@ -1,3 +1,3 @@
 # Yelloan
 
-C++ solution for the Yelloan cosing test
+C++ solutions for the Yelloan cosing test
